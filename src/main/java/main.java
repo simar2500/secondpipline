@@ -7,5 +7,7 @@ public class main {
         System.out.println("now i have created a second pipline for this project ");
 
         System.out.println("this is the new ec2 pipeline which i wanted to check ");
+        System.out.println("trying again");
+
     }
 }
